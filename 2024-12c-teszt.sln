@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.34301.259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teszt", "Teszt\Teszt.csproj", "{3DC788B7-C833-403B-819F-7D5E2686300E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorHenger", "KorHenger\KorHenger.csproj", "{1BFE700E-7E4C-4F14-8357-CC9FFCCFCE79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorHenger-Teszt", "KorHenger-Teszt\KorHenger-Teszt.csproj", "{CED965D0-3C5A-4DE0-A45B-8E9095CE73CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3DC788B7-C833-403B-819F-7D5E2686300E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DC788B7-C833-403B-819F-7D5E2686300E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DC788B7-C833-403B-819F-7D5E2686300E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BFE700E-7E4C-4F14-8357-CC9FFCCFCE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFE700E-7E4C-4F14-8357-CC9FFCCFCE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFE700E-7E4C-4F14-8357-CC9FFCCFCE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFE700E-7E4C-4F14-8357-CC9FFCCFCE79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CED965D0-3C5A-4DE0-A45B-8E9095CE73CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED965D0-3C5A-4DE0-A45B-8E9095CE73CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED965D0-3C5A-4DE0-A45B-8E9095CE73CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED965D0-3C5A-4DE0-A45B-8E9095CE73CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
